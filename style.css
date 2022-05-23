@@ -1,0 +1,34 @@
+h1 {
+    background-color: black;
+    font-size: 40px;
+    padding: 10px;
+    font-weight: bold;
+    font-family: sans-serif;
+    display: block;
+    margin: 10px;
+}
+
+#p1 {
+    text-align: center;
+    font-style: italic;
+    background-color: rgb(87, 23, 146);
+    color: snow;
+    font-size: 30px;
+    padding: 10px;
+    font-family: sans-serif;
+    font-weight: lighter;
+    display: block;
+    margin: 11px;
+}
+
+#blue {
+    background-color: rgba(40, 131, 200, 0.746);
+    text-decoration: underline;
+    text-align: right;
+    font-size: 30px;
+    padding: 10px;
+    font-family: sans-serif;
+    font-weight: lighter;
+    display: block;
+    margin: 10px;
+}
